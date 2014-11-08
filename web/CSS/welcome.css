@@ -1,0 +1,38 @@
+h1
+{
+color:blue;
+font-family: 'Open Sans', sans-serif;
+text-align:left;
+}
+
+h2
+{
+color:red;
+font-family: 'Open Sans', sans-serif;
+text-align:left;
+}
+
+p
+{
+color:blue;
+font: bold; 
+font-family: arial, sans-serif;
+text-align:left;
+}
+
+a
+{
+font-family: calibri, sans-serif;
+text-align:left;
+}
+
+form
+{
+font-family: calibri, sans-serif;
+}
+
+button
+{
+font-family: calibri, sans-serif;
+}
+
